@@ -1,0 +1,36 @@
+<nav class="navbar" style="background-color:black">
+  <a class="navbar-brand text-white">Phone Shop</a>
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/admin">Admin Panel</a>
+    </li>
+  </ul>
+  <button class="btn btn-dark my-2 my-sm-0" >Customers</button>|
+  <button class="btn btn-dark my-2 my-sm-0" routerLink="/order">Orders</button>|
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()" style="color:white" ><svg class="bi bi-lock-fill" width="1em" height="1em">
+  <rect width="11" height="9" x="2.5" y="7" rx="2" />
+  <path fill-rule="evenodd" d="M4.5 4a3.5 3.5 0 1 1 7 0v3h-1V4a2.5 2.5 0 0 0-5 0v3h-1V4z"/>
+  </svg></button>
+</nav>
+<table class="table table-hover">
+  <thead class="thead-light">
+    <th>#Order No.</th>
+    <th>Customer</th>
+    <th>PayMethod</th>
+    <th>GrandTotal</th>
+    <th>
+      <a class="btn btn-outline-success" routerLink="/order"><i class="fa fa-plus-square"></i> Create New</a>
+    </th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of orderList">
+      <th (click)="openForEdit(item.OrderID)">{{item.OrderNo}}</th>
+      <td (click)="openForEdit(item.OrderID)">{{item.Customer}}</td>
+      <td (click)="openForEdit(item.OrderID)">{{item.payMethod}}</td>
+      <td (click)="openForEdit(item.OrderID)">{{item.grandTotal}}</td>
+      <td>
+          <a class="btn text-danger" (click)="onOrderDelete(item.OrderID)"><i class="fa fa-trash fa-lg"></i></a>
+      </td>
+    </tr>
+  </tbody>
+</table>

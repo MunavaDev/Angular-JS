@@ -1,0 +1,16 @@
+
+<nav class="navbar" style="background-color:black">
+  <a class="navbar-brand text-white">Phone Shop</a>
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item" *ngIf="userService.roleMatch(['Admin'])">
+      <a routerLink="/gun">Gun Panel</a>
+    </li>
+    <li class="nav-item" *ngIf="userService.roleMatch(['Customer'])">
+      <a routerLink="/guntype">Customers</a>
+    </li>
+    <li class="nav-item" *ngIf="userService.roleMatch(['Employee'])">
+      <a routerLink="/gunautomatic">Gun Automatic</a>
+    </li>
+  </ul>
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()" style="color:white" >Logout</button>
+</nav>

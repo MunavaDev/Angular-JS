@@ -1,0 +1,38 @@
+<!-- inputs -->
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <div class="form-group">
+            <label>Gun Type</label>
+            <input type="text" class="form-control" name="GunTypeName" #GunTypeName="ngModel"
+                [(ngModel)]="service.guntypeData.GunTypeName">
+        </div>
+    </div>
+</div>
+<!-- table -->
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <table class="table">
+          <tr>
+            <th>Description</th>
+            <th></th>
+          </tr>
+
+          <tr *ngFor="let item of service.guntypeList">
+            <td>{{item.GunTypeName}}</td>
+            <td><button (click)="editGunType(item)" class="btn btn-sm btn-outline-primary">Edit</button></td>
+          </tr>
+        </table>
+      </div>
+</div>
+<!-- buttons -->
+<div class="row">
+    <div class="offset-md-2">
+        <button (click)="submitGunAuto()" class="btn btn-success">{{btnLabel}}</button>
+    </div>
+    <div class="offset-md-1">
+        <button (click)="routeGun()" class="btn btn-outline-success">Gun</button>
+    </div>
+    <div class="offset-md-1">
+        <button (click)="routeAuto()" class="btn btn-outline-success">Gun Type</button>
+    </div>
+</div>

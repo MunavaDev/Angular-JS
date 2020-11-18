@@ -1,0 +1,104 @@
+<nav class="navbar" style="background-color:black">
+  <a class="navbar-brand text-white">Phone Shop</a>
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/admin">Admin Panel</a>
+    </li>
+  </ul>
+  <button class="btn btn-dark my-2 my-sm-0" >Customers</button>|
+  <button class="btn btn-dark my-2 my-sm-0" routerLink="/order">Orders</button>|
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()" style="color:white" ><svg class="bi bi-lock-fill" width="1em" height="1em">
+  <rect width="11" height="9" x="2.5" y="7" rx="2" />
+  <path fill-rule="evenodd" d="M4.5 4a3.5 3.5 0 1 1 7 0v3h-1V4a2.5 2.5 0 0 0-5 0v3h-1V4z"/>
+  </svg></button>
+</nav>
+<form #form="ngForm" autocomplete="off" *ngIf="service.formData" (submit)="onSubmit(form)">
+
+  <input type="hidden"  name="OrderID" #OrderID="ngModel" [(ngModel)]="service.formData.OrderID">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="form-group">
+        <label>Order No.</label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <div class="input-group-text">#</div>
+          </div>
+          <input name="OrderNo" #OrderNo="ngModel" [(ngModel)]="service.formData.OrderNo" class="form-control" readonly style="background-color:slategrey">
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Customer</label>
+        <select name="CustomerID" #CustomerID="ngModel" [(ngModel)]="service.formData.CustomerID" class="form-control"
+        [class.is-invalid]="!isValid && service.formData.CustomerID==0">
+          <option value="0">-Select-</option>
+          <option *ngFor="let item of customerList" value="{{item.CustomerID}}">{{item.customerName}}</option>
+        </select>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="form-group">
+        <label>Payment Method</label>
+        <select name="payMethod" #payMethod="ngModel" [(ngModel)]="service.formData.payMethod" class="form-control" style="background-color:slategrey">
+          <option value="">-Select-</option>
+          <option value="Cash">Cash</option>
+          <option value="Card">Card</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Grand Total</label>
+
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <div class="input-group-text">$</div>
+          </div>
+          <input name="grandTotal" #grandTotal="ngModel" [(ngModel)]="service.formData.grandTotal" class="form-control" readonly style="background-color:slategrey">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- order items table-->
+  <table class="table table-borderless">
+    <thead class="thead-light">
+      <th>Phone</th>
+      <th>Price</th>
+      <th>Quantity</th>
+      <th>Total</th>
+      <th>
+        <a class="btn btn-sm btn-success text-white" (click)="AddOrEditOrderItem(null,service.formData.OrderID)"><i class="fa fa-plus"></i> Add Item</a>
+      </th>
+    </thead>
+    <tbody>
+      <tr *ngIf="service.orderItems.length==0" [class.text-danger]="!isValid && service.orderItems.length==0">
+        <td class="font-italic text-center" colspan="5">
+          No phone selected for this order.
+        </td>
+      </tr>
+
+      <tr *ngFor="let item of service.orderItems;let i=index;">
+        <td>{{item.ItemName}}</td>
+        <td>{{item.Price}}</td>
+        <td>{{item.Quantity}}</td>
+        <td>{{item.Total}}</td>
+        <td>
+          <a class="btn btn-sm btn-info text-white" (click)="AddOrEditOrderItem(i,service.formData.OrderID)">
+          <svg class="bi bi-pencil" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M11.293 1.293a1 1 0 0 1 1.414 0l2 2a1 1 0 0 1 0 1.414l-9 9a1 1 0 0 1-.39.242l-3 1a1 1 0 0 1-1.266-1.265l1-3a1 1 0 0 1 .242-.391l9-9zM12 2l2 2-9 9-3 1 1-3 9-9z"/>
+  <path fill-rule="evenodd" d="M12.146 6.354l-2.5-2.5.708-.708 2.5 2.5-.707.708zM3 10v.5a.5.5 0 0 0 .5.5H4v.5a.5.5 0 0 0 .5.5H5v.5a.5.5 0 0 0 .5.5H6v-1.5a.5.5 0 0 0-.5-.5H5v-.5a.5.5 0 0 0-.5-.5H3z"/>
+</svg>
+          </a>
+          <a class="btn btn-sm btn-danger text-white ml-1" (click)="onDeleteOrderItem(item.OrderItemID,i)">
+          <svg class="bi bi-trash2" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M3.18 4l1.528 9.164a1 1 0 0 0 .986.836h4.612a1 1 0 0 0 .986-.836L12.82 4H3.18zm.541 9.329A2 2 0 0 0 5.694 15h4.612a2 2 0 0 0 1.973-1.671L14 3H2l1.721 10.329z"/>
+  <path d="M14 3c0 1.105-2.686 2-6 2s-6-.895-6-2 2.686-2 6-2 6 .895 6 2z"/>
+  <path fill-rule="evenodd" d="M12.9 3c-.18-.14-.497-.307-.974-.466C10.967 2.214 9.58 2 8 2s-2.968.215-3.926.534c-.477.16-.795.327-.975.466.18.14.498.307.975.466C5.032 3.786 6.42 4 8 4s2.967-.215 3.926-.534c.477-.16.795-.327.975-.466zM8 5c3.314 0 6-.895 6-2s-2.686-2-6-2-6 .895-6 2 2.686 2 6 2z"/>
+</svg>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="form-group">
+     <button class="btn btn-dark my-2 my-sm-0">Submit</button>|
+    <button class="btn btn-primary my-2 my-sm-0" routerLink="/orders">View Orders</button>
+  </div>
+</form>

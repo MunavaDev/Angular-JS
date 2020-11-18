@@ -1,0 +1,25 @@
+<nav class="navbar" style="background-color:black">
+  <a class="navbar-brand text-white">Phone Shop</a>
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/admin">Admin Panel</a>
+    </li>
+  </ul>
+  <button class="btn btn-dark my-2 my-sm-0" >Customers</button>|
+  <button class="btn btn-dark my-2 my-sm-0" routerLink="/order">Orders</button>|
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()" style="color:white" ><svg class="bi bi-lock-fill" width="1em" height="1em">
+  <rect width="11" height="9" x="2.5" y="7" rx="2" />
+  <path fill-rule="evenodd" d="M4.5 4a3.5 3.5 0 1 1 7 0v3h-1V4a2.5 2.5 0 0 0-5 0v3h-1V4z"/>
+  </svg></button>
+</nav>
+
+<div style="border-radius:20px;width:20rem;border:2px solid #5bc0de ;padding-left:20px;margin-left:100px;margin-top:20px;">
+<div style="margin-top:20px">
+<img src="/assets/user.png" style="height:100px; width:100px;margin-left:100px"/>
+</div>
+<div class="card m-5" style="margin-left:-25px" *ngIf="userDetails">
+  <ul class="list-group">
+    <li class="list-group-item"><strong>signed in as </strong>{{userDetails.userName}}</li>
+    <li class="list-group-item"><strong>Email : </strong>{{userDetails.email}}</li>
+  </ul>
+</div>

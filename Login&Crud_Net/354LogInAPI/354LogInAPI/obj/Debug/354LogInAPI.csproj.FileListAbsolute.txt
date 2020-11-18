@@ -1,0 +1,360 @@
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csprojAssemblyReference.cache
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.CoreCompileInputs.cache
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\354LogInAPI.dll.config
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\354LogInAPI.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\354LogInAPI.pdb
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\csc.exe
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\csc.exe.config
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\csc.rsp
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\csi.exe
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\csi.exe.config
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\csi.rsp
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.AppContext.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Console.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\vbc.exe
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\vbc.exe.config
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\vbc.rsp
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Antlr3.Runtime.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\EntityFramework.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Newtonsoft.Json.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Owin.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Cors.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Helpers.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.Owin.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Mvc.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Optimization.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Razor.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\WebGrease.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Newtonsoft.Json.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Helpers.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Mvc.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Optimization.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Razor.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Antlr3.Runtime.pdb
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\EntityFramework.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.Owin.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.CopyComplete
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.pdb
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\_354LogInAPI.Migrations.InitialSeed.resources
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.GenerateResource.cache
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.Cors.dll
+C:\Users\iains\OneDrive\Desktop\354LogInAPI\354LogInAPI\bin\System.Web.Http.Cors.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\354LogInAPI.dll.config
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\354LogInAPI.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\354LogInAPI.pdb
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csc.exe
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csc.exe.config
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csc.rsp
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csi.exe
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csi.exe.config
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csi.rsp
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.AppContext.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Console.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\vbc.exe
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\vbc.exe.config
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\vbc.rsp
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Antlr3.Runtime.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Newtonsoft.Json.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Owin.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Cors.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Helpers.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Cors.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Owin.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Mvc.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Optimization.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Razor.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\WebGrease.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Cors.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Newtonsoft.Json.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Helpers.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Mvc.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Optimization.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Razor.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Antlr3.Runtime.pdb
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Owin.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csprojAssemblyReference.cache
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.CoreCompileInputs.cache
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.CopyComplete
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.dll
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.pdb
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\354LogInAPI.dll.config
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\354LogInAPI.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\354LogInAPI.pdb
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csc.exe
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csc.exe.config
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csc.rsp
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csi.exe
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csi.exe.config
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\csi.rsp
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.AppContext.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Console.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\vbc.exe
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\vbc.exe.config
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\vbc.rsp
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Antlr3.Runtime.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Newtonsoft.Json.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Owin.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Cors.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Helpers.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Cors.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Owin.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Mvc.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Optimization.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Razor.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\WebGrease.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Cors.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Newtonsoft.Json.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Helpers.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Mvc.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Optimization.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Razor.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Antlr3.Runtime.pdb
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\System.Web.Http.Owin.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.CoreCompileInputs.cache
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.CopyComplete
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.dll
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.pdb
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\_354LogInAPI.Migrations.InitialCreate.resources
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.GenerateResource.cache
+C:\Users\iains\Desktop\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csprojAssemblyReference.cache
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\_354LogInAPI.Migrations.InitialCreate.resources
+C:\Users\iains\OneDrive\Documents\3 TutorDevOpsZa\Inf354\Assignment5_Net\354LogInAPI\354LogInAPI\obj\Debug\354LogInAPI.csproj.GenerateResource.cache

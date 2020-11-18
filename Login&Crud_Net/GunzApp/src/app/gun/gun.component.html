@@ -1,0 +1,80 @@
+<!-- inputs -->
+<div class="row">
+    <div class="col-md-3 offset-md-3">
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" class="form-control" name="GunName" #GunName="ngModel"
+                [(ngModel)]="service.gunData.GunName">
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="form-group">
+            <label>Description</label>
+            <input type="text" class="form-control" name="GunDescription" #GunDescription="ngModel"
+                [(ngModel)]="service.gunData.GunDescription">
+        </div>
+    </div>
+</div>
+<!-- dropdowns -->
+<div class="row">
+    <div class="col-md-3 offset-md-3">
+        <div class="form-group">
+            <label>Gun Type</label>
+            <select name="GunTypeID" #GunTypeID="ngModel" [(ngModel)]="service.gunData.GunTypeID"
+                class="form-control" (change)="selectGunType($event.target)">
+                <option value="0">-- Select --</option>
+                <option *ngFor="let item of service.guntypeList" value="{{item.GunTypeID}}">{{item.GunTypeName}}
+                </option>
+            </select>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="form-group">
+            <label>Gun Automatic Type</label>
+            <select name="GunAutomaticID" #GunAutomaticID="ngModel" [(ngModel)]="service.gunData.GunAutomaticID"
+                class="form-control" (change)="selectGunAuto($event.target)">
+                <option value="0">-- Select --</option>
+                <option *ngFor="let item of service.gunautoList" value="{{item.GunAutomaticID}}">{{item.GunAutoDesc}}
+                </option>
+            </select>
+        </div>
+    </div>
+</div>
+<!-- table -->
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <table class="table">
+          <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Type</th>
+            <th>Automatic</th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr *ngFor="let item of service.gunList">
+            <td>{{item.GunName}}</td>
+            <td>{{item.GunDescription}}</td>
+            <td>{{item.GunTypeID}}</td>
+            <td>{{item.GunAutomaticID}}</td>
+            <td><button (click)="editGun(item)" class="btn btn-sm btn-outline-primary">Edit</button></td>
+            <td><button (click)="deleteGun(item.GunID)" class="btn btn-sm btn-outline-danger">Delete</button></td>
+          </tr>
+        </table>
+      </div>
+</div>
+
+<div class="row">
+    <div class="offset-md-2">
+        <button (click)="submitGun()" class="btn btn-success">{{btnLabel}}</button>
+    </div>
+    <div class="offset-md-1">
+        <button (click)="routeType()" class="btn btn-outline-success">Gun Type</button>
+    </div>
+    <div class="offset-md-1">
+        <button (click)="routeAuto()" class="btn btn-outline-success">Gun Automatic Type</button>
+    </div>
+</div>
